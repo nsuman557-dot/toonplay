@@ -1,0 +1,6 @@
+{
+  "name": "ToonPlay",
+  "description": "ToonPlay.in — A premium, modern, and high-performance cartoon and anime streaming platform with interactive cinematic spotlight, watchlist manager, and watch history records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
